@@ -76,6 +76,9 @@ section {
 .text-ul ul {
     padding-left: 25px;
 }
+.text-ul ul li {
+    padding: 10px;
+}
 .test {
     width: 60%;
     display: flex;
@@ -90,4 +93,7 @@ section {
 }
 .test h1 {
     padding-left: 10px;
+}
+.link{
+    text-align: center;
 }
