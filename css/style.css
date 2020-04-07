@@ -97,3 +97,8 @@ section {
 .link{
     text-align: center;
 }
+.dream {
+    font-size: 2vw;
+    padding-left: 20px;
+    margin-bottom: 10px;
+}
