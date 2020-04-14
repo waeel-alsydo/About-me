@@ -75,7 +75,6 @@ section {
 }
 .text-ul ul {
     padding-left: 25px;
-    list-style: none;
 }
 .text-ul ul li {
     padding: 10px;
@@ -95,14 +94,10 @@ section {
 .test h3 {
     padding-left: 10px;
 }
-.link{
-    display: flex;
-    justify-content: center;
-}
 .link .linke-1 {
     display: flex;
-    justify-content: center;
     align-items: center;
+    padding-left: 35%;
 }
 .linke-1 a {
     text-decoration: none;
